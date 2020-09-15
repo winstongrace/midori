@@ -17,7 +17,7 @@
 
 highlight clear
 syntax reset
-let g:colors_name = "winston"
+let g:colors_name = "midori"
 set background=light
 
 " Baseline
